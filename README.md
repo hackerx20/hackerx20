@@ -20,8 +20,9 @@
 
 ## Contacts:
 __Email Id:__
-> tiwarishiv2005@gmail.com
-
+``` bash
+ tiwarishiv2005@gmail.com
+```
 __LinkedIn:__
 > [Shivansh Tiwari](https://www.linkedin.com/in/shivansh-tiwari-9595092b7/)
 <!--
