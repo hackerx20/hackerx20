@@ -2,7 +2,7 @@
 # Shivansh Tiwari
 
 ## About Me:
-I am a 3rd year Btech undergrad at IIT Roorkee, passionate about Linux and Software Development. I thrive in collaborative environments and am dedicated to leveraging technology to create a better tomorrow.
+😄 I am a 3rd year Btech undergrad at IIT Roorkee, passionate about Linux and Software Development. I thrive in collaborative environments and am dedicated to leveraging technology to create a better tomorrow.
 
 ## Interest:
 * Software Development
@@ -21,6 +21,7 @@ I am a 3rd year Btech undergrad at IIT Roorkee, passionate about Linux and Softw
 ## Contacts:
 __Email Id:__
 > tiwarishiv2005@gmail.com
+
 __LinkedIn:__
 > [Shivansh Tiwari](https://www.linkedin.com/in/shivansh-tiwari-9595092b7/)
 <!--
@@ -34,6 +35,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
