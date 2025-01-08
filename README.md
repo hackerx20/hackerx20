@@ -7,11 +7,13 @@
 ## Interest:
 * Software Development
 * Competitive Programming
+* Data Science
 * linux
 
 ## Skills:
 * C++
 * Python
+* Data Science
 * Web Development
 
 ## Education:
