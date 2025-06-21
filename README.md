@@ -2,7 +2,7 @@
 # Shivansh Tiwari
 
 ## About Me:
-😄 I am a 3rd year Btech undergrad at IIT Roorkee, passionate about Linux and Software Development. I thrive in collaborative environments and am dedicated to leveraging technology to create a better tomorrow.
+😄 I am a 4th year Btech undergrad at IIT Roorkee, passionate about Linux and Software Development. I thrive in collaborative environments and am dedicated to leveraging technology to create a better tomorrow.
 
 ## Interest:
 * Software Development
