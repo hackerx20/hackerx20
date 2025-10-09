@@ -5,7 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/hackerx20?style=social)](https://github.com/hackerx20)  
 [![Email](https://img.shields.io/badge/Email-tiwari--shiv2005%40gmail.com-red?logo=gmail&logoColor=white)](mailto:tiwarishiv2005@gmail.com)  
 
----
 
 ## 👨‍💻 About Me  
 🎓 **4th-year B.Tech undergrad at IIT Roorkee (2026)**  
@@ -13,7 +12,6 @@
 🚀 Always exploring **Data Science, System Design, and Automation**  
 🌍 Strong believer in the power of **Open Source & Collaboration**  
 
----
 
 ## 🔥 Interests  
 - 🖥️ Software Development  
@@ -21,7 +19,6 @@
 - 📊 Data Science & Machine Learning  
 - 🐧 Linux & Open Source  
 
----
 
 ## ⚡ Skills  
 **Languages & Core:**  
@@ -40,20 +37,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=flat&logo=visual-studio-code&logoColor=white)  
 
----
 
 ## 🎓 Education  
 📍 **Indian Institute of Technology, Roorkee**  
 _B.Tech – Metallurgical and Materials Engineering (2022–2026)_  
 
----
 
 ## 📫 Connect With Me  
 - 📧 [Email](mailto:tiwarishiv2005@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivansh-tiwari-9595092b7/)  
 - 🐙 [GitHub](https://github.com/hackerx20)  
 
----
 
 ## 📊 GitHub Stats  
 ![Shivansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerx20&show_icons=true&theme=radical)  
